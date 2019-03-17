@@ -1,0 +1,7 @@
+{
+  "name": "rollup-plugin-html",
+  "version": "1.0.0",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
