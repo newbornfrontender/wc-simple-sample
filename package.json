@@ -1,0 +1,11 @@
+{
+  "name": "wc-simple-sample",
+  "version": "1.0.0",
+  "description": "Simple web-component sample",
+  "repository": "git@github.com:newbornfrontender/wc-simple-sample.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
