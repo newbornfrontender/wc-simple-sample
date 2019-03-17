@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^7.0.14",
+    "postcss-load-config": "^2.0.0",
+    "rollup-pluginutils": "^2.4.1"
+  }
 }

@@ -1,6 +1,6 @@
 import resolve from 'rollup-plugin-node-resolve';
 
-import html from 'rollup-plugin-html';
+import html from './packages/rollup-plugin-html/index.js';
 
 export default {
   input: ['components/test.js'],
